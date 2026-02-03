@@ -208,7 +208,7 @@ docker run -d --env-file .env save-restricted-bot
 # 📞 Support
 
 <p align="center">
-  <a href="https://t.me/cantarella_Official">
+  <a href="https://t.me/cantarellabots">
     <img src="https://img.shields.io/badge/cantarella-Official%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
   <br><br>
